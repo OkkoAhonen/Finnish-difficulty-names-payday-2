@@ -1,0 +1,7 @@
+<table name="Threat Level Difficulty Names" author="kukkakakka" priority="5" color ="Color(1,1,1)">
+	<AssetUpdates id="691337" version="1.0" provider="modworkshop"/>
+	
+<Hooks>
+                <hook file="difficulty.lua" source_file="lib/managers/localizationmanager"/>
+    </Hooks>
+</table>
